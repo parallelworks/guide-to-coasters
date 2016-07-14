@@ -4,7 +4,7 @@
 ![Image of coffee coasters]
 (http://www.holycool.net/wp-content/uploads/2015/07/Coffee-Inspired-Leather-Coasters.jpg)
 
-(Not these coasters). 
+**(Not these coasters).**
 
 Coasters are a job submission tool used by the Swift parallel scripting language.
 Coasters are written in Java.
@@ -46,9 +46,10 @@ So, coasters make things fast and easy. Well, easy by large scale computing
 standards, at least.
 
 
-#What are the main parts of coasters?
+## What are the main parts of coasters?
 
-There are three main parts of coasters ("the coaster system"): 
+There are three main parts of coasters ("the coaster system")
+
 1. the coaster client
 2. the coaster service
 3. the coaster workers 
@@ -81,5 +82,5 @@ these back to the coaster service. (Pictures will be inserted).
 
 # Coasters Tutorial
 
-# First: manually start coaster service and worker separately, on a local machine.
+## First: manually start coaster service and worker separately, on a local machine.
 
